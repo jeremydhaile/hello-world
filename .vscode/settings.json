@@ -1,0 +1,6 @@
+{
+    "mediaPreview.video.autoPlay": true,
+    "mediaPreview.video.loop": true,
+    "merge-conflict.autoNavigateNextConflict.enabled": true,
+    "npm.enableRunFromFolder": true
+}
